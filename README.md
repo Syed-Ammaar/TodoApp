@@ -39,6 +39,6 @@
     Feel free to customize the content to better fit your project and its specific requirements. If you have any further questions or need additional assistance, let me know!
 
 9. **Screenshots or GIFs:**
-    ![ToDo ScreenShots](todo.png)
+    ![ToDo ScreenShots](todoapp.png)
 
    
